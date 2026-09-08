@@ -1,34 +1,3 @@
 {
-    "19950831": [
-        {
-            "fileId": "AgACAgUAAyEGAATgydxyAAMSap402vGCiw0XOnH7dWWihb6OYskAAhMSaxvL7_BUKbIAAbP3aZRgAQADAgADdwADPQQ",
-            "fileUrl": "https://api.telegram.org/file/bot8784845752:AAFSX0fkHyALs79xgp8RNs9LExV9LeLyBQs/photos/file_7.jpg",
-            "date": "2026-09-08",
-            "isVideo": false
-        },
-        {
-            "fileId": "AgACAgUAAyEGAATgydxyAAMkap99mQ5t2m5blq5u69iw1A6eejUAAm4UaxvL7_hUIuvTJB6O0SwBAAMCAAN3AAM9BA",
-            "fileUrl": "https://api.telegram.org/file/bot8784845752:AAFSX0fkHyALs79xgp8RNs9LExV9LeLyBQs/photos/file_18.jpg",
-            "date": "2026-09-08",
-            "isVideo": false
-        },
-        {
-            "fileId": "AgACAgUAAyEGAATgydxyAAMeap94M9m3lOf64j-QjmgMiUIWtUYAAlIUaxvL7_hUTBWdLhydj7IBAAMCAAN3AAM9BA",
-            "fileUrl": "https://api.telegram.org/file/bot8784845752:AAFSX0fkHyALs79xgp8RNs9LExV9LeLyBQs/photos/file_15.jpg",
-            "date": "2026-09-08",
-            "isVideo": false
-        },
-        {
-            "fileId": "AgACAgUAAyEGAATgydxyAAMpap-1awLu6Kn_vvWk6zrZBtZkBhYAAlQVaxv6QgFV5K_zmTjMkKkBAAMCAAN3AAM9BA",
-            "fileUrl": "https://api.telegram.org/file/bot8784845752:AAFSX0fkHyALs79xgp8RNs9LExV9LeLyBQs/photos/file_19.jpg",
-            "date": "2026-09-08",
-            "isVideo": false
-        },
-        {
-            "fileId": "AgACAgUAAyEGAATgydxyAAMqap_6stsZYnC3yhZHQvkUd_SIDGUAAgEWaxv6QgFV551DL-KFe4sBAAMCAAN3AAM9BA",
-            "fileUrl": "https://api.telegram.org/file/bot8784845752:AAFSX0fkHyALs79xgp8RNs9LExV9LeLyBQs/photos/file_20.jpg",
-            "date": "2026-09-08",
-            "isVideo": false
-        }
-    ]
+    "19950831": []
 }
